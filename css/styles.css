@@ -1,6 +1,4 @@
-/* company-page design tokens
-   Colours sampled from the user's reference screenshots (assets/reference/).
-   Replace values here if official brand tokens are provided. */
+
 :root {
   /* Brand */
   --brand-500: #673de6;           /* primary buttons, CTA pill, key accents */

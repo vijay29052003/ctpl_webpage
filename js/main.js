@@ -59,7 +59,7 @@
       }
 
       message.textContent =
-        'Thanks. We received your request and will reply within [TODO] working days.';
+        'Thanks. We received your request and will reply within some working days.';
       form.reset();
     });
   }
